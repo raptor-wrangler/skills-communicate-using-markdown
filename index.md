@@ -12,3 +12,8 @@ and write, sometimes
 ```cpp
 string nyeh = "nyeh heh heh heh heh!";
 ```
+- [ ] Finish my homework
+- [x] Go on date
+- [ ] Study for finals
+- [ ] Take finals
+- [ ] Fly home 4 Christmas
